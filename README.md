@@ -226,6 +226,8 @@ This section includes a variety of handy utilities that assist with different ta
 - [TON Notify Bot](https://t.me/TONNotifyBot) - This Telegram bot provides instant notifications about coin transfers of the TON addresses. Stay informed about your transactions in real-time with this handy tool.
 - [Blockchain Network Visualizer](https://github.com/qpwedev/blockchain-network-visualizer) - Draft tool for visualizing TON blockchain network, written in Python. It provides a visual representation of the contracts and transfers between them. Contributions are welcome.
 - [Anonymous Numbers Market Analytics](https://github.com/qpwedev/anonymous-numbers-market-analytics) - Telegram bot that disseminates statistical data on the Anonymous Telegram Numbers from Fragment market.
+- [bicycle](https://github.com/gobicycle/bicycle) - Microservice for accepting payments and making withdrawals to wallets in TON blockchain. Supports TON coins and Jettons (conforming certain criteria).
+Provides REST API for integration. Service is ADNL based and interacts directly with node and do not use any third party API.
 
 ## 👨‍🎨 UX/UI
 - [TON Design System](https://github.com/designervoid/ton-design-system) - Tailwind based Typescript package for creating frontend components which provides [TON Brand Assets](https://ton.org/brand-assets) as Atom CSS with custom theme.
